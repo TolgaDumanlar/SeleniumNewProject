@@ -22,7 +22,7 @@ public class C01_Examples {
        Sayfayı kapatın
         */
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver","src/resources/Drivers/chromedriver.exe");
+       // System.setProperty("webdriver.chrome.driver","src/resources/Drivers/chromedriver.exe");
         WebDriver driver=new EdgeDriver();
 
 //         Browser'ı açıp maximize yapın
